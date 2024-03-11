@@ -1,0 +1,12 @@
+{
+  "name": "ostad-assignment-module-14",
+  "version": "1.0.0",
+  "description": "echo \"# ostad-assignment-module-14\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Jahirul-Islam-Jantu/ostad-assignment-module-14.git git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
