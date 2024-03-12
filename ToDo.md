@@ -7,3 +7,5 @@
 - - user model creation
 - - tasks model creation
 - - otp model creation
+- - mail utility
+- - user registration
