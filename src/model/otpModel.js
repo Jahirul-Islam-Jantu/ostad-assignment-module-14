@@ -9,6 +9,6 @@ const dataschema = mongoose.Schema(
   { versionKey: false }
 );
 
-const taskModel = mongoose.model("tasks", dataschema);
+const OTPModel = mongoose.model("otps", dataschema);
 
-module.exports = taskModel;
+module.exports = OTPModel;
