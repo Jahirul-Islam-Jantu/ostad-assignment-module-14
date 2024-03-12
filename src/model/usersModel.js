@@ -8,7 +8,7 @@ const dataschema = mongoose.Schema(
     phone: { type: String, unique: true, require: true },
     password: { type: String, require: true },
   },
-  { versionKey: false }
+  { timestamps: true, versionKey: false }
 );
 
 const usersmodel = mongoose.model("users", dataschema);

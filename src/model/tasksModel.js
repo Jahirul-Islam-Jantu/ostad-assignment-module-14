@@ -6,7 +6,7 @@ const dataschema = mongoose.Schema(
     description: { type: String, require: true },
     status: { type: String, require: true },
   },
-  { versionKey: false }
+  { timestamps: true, versionKey: false }
 );
 
 const taskModel = mongoose.model("tasks", dataschema);
