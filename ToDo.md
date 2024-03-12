@@ -4,3 +4,6 @@
 - - Package Installation
 - - App.js configuration
 - - Run The Server
+- - user model creation
+- - tasks model creation
+- - otp model creation
